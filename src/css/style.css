@@ -145,10 +145,7 @@ img {
     position: absolute;
     display: flex;
     flex-direction: column;
-    gap: 25x;
-  }
-  .nav-link {
-    font-size: 2em;
+    gap: 25px;
   }
   .header-menu {
     display: block;
